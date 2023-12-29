@@ -1,3 +1,5 @@
+# Prompt: https://www.practicepython.org/exercise/2014/01/29/01-character-input.html
+
 user_name = input('Please enter your first name. ')
 user_age = int(input('Please enter your age in years. '))
 user_number = int(input('Please enter a number. '))
